@@ -1,0 +1,29 @@
+export const userList=[
+    {
+        name:"suraj",
+        age:1,
+        sex:"Male",
+        mobile:"0000000",
+        govtIdType:"adhar",
+        govtId:"pancard",
+        id:1
+    },
+    {
+        name:"suraj",
+        age:1,
+        sex:"Male",
+        mobile:"0000000",
+        govtIdType:"pancard",
+        govtId:"adhar",
+        id:2
+    },
+    {
+        name:"suraj",
+        age:1,
+        sex:"Male",
+        mobile:"0000000",
+        govtIdType:"adhar",
+        govtId:"adhar",
+        id:3
+    },
+]
